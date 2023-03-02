@@ -10,7 +10,7 @@ namespace Herencia
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {   //comentario
             
             Caballo Babieca = new Caballo("Hercules");
             //Humano Juan = new Humano();
