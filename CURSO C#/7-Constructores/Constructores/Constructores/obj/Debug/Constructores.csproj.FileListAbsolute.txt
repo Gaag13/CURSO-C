@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\7-Constructores\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\User\Desktop\CURSO C#\7-Constructores\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\User\Desktop\CURSO C#\7-Constructores\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\User\Desktop\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\User\Desktop\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\7-Constructores\Constructores\Constructores\bin\Debug\Constructores.exe.config
+C:\Users\User\Desktop\CURSO C#\CURSO C#\7-Constructores\Constructores\Constructores\bin\Debug\Constructores.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\7-Constructores\Constructores\Constructores\bin\Debug\Constructores.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\7-Constructores\Constructores\Constructores\obj\Debug\Constructores.pdb

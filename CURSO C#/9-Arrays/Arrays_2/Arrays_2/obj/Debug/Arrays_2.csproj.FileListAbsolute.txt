@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\CURSO C#\9-Arrays\Arrays_2\Arrays_2\bin\Debug\Arrays_2.exe.config
+C:\Users\User\Desktop\CURSO C#\9-Arrays\Arrays_2\Arrays_2\bin\Debug\Arrays_2.exe
+C:\Users\User\Desktop\CURSO C#\9-Arrays\Arrays_2\Arrays_2\bin\Debug\Arrays_2.pdb
+C:\Users\User\Desktop\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.exe
+C:\Users\User\Desktop\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\9-Arrays\Arrays_2\Arrays_2\bin\Debug\Arrays_2.exe.config
+C:\Users\User\Desktop\CURSO C#\CURSO C#\9-Arrays\Arrays_2\Arrays_2\bin\Debug\Arrays_2.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\9-Arrays\Arrays_2\Arrays_2\bin\Debug\Arrays_2.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\9-Arrays\Arrays_2\Arrays_2\obj\Debug\Arrays_2.pdb

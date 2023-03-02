@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\CURSO C#\4-Bucles\Bucles\Bucles\bin\Debug\Bucles.exe.config
+C:\Users\User\Desktop\CURSO C#\4-Bucles\Bucles\Bucles\bin\Debug\Bucles.exe
+C:\Users\User\Desktop\CURSO C#\4-Bucles\Bucles\Bucles\bin\Debug\Bucles.pdb
+C:\Users\User\Desktop\CURSO C#\4-Bucles\Bucles\Bucles\obj\Debug\Bucles.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\4-Bucles\Bucles\Bucles\obj\Debug\Bucles.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\4-Bucles\Bucles\Bucles\obj\Debug\Bucles.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\4-Bucles\Bucles\Bucles\obj\Debug\Bucles.exe
+C:\Users\User\Desktop\CURSO C#\4-Bucles\Bucles\Bucles\obj\Debug\Bucles.pdb

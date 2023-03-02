@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\CURSO C#\8-ConceptosPOO\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe.config
+C:\Users\User\Desktop\CURSO C#\8-ConceptosPOO\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.exe
+C:\Users\User\Desktop\CURSO C#\8-ConceptosPOO\ConceptosPOO\ConceptosPOO\bin\Debug\ConceptosPOO.pdb
+C:\Users\User\Desktop\CURSO C#\8-ConceptosPOO\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\8-ConceptosPOO\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\8-ConceptosPOO\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\8-ConceptosPOO\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.exe
+C:\Users\User\Desktop\CURSO C#\8-ConceptosPOO\ConceptosPOO\ConceptosPOO\obj\Debug\ConceptosPOO.pdb

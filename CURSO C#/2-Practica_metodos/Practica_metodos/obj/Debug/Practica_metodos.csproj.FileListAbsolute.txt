@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\CURSO C#\Practica_metodos\Practica_metodos\bin\Debug\Practica_metodos.exe.config
+C:\Users\User\Desktop\CURSO C#\Practica_metodos\Practica_metodos\bin\Debug\Practica_metodos.exe
+C:\Users\User\Desktop\CURSO C#\Practica_metodos\Practica_metodos\bin\Debug\Practica_metodos.pdb
+C:\Users\User\Desktop\CURSO C#\Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.exe
+C:\Users\User\Desktop\CURSO C#\Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.pdb
+C:\Users\User\Desktop\CURSO C#\2-Practica_metodos\Practica_metodos\bin\Debug\Practica_metodos.exe.config
+C:\Users\User\Desktop\CURSO C#\2-Practica_metodos\Practica_metodos\bin\Debug\Practica_metodos.exe
+C:\Users\User\Desktop\CURSO C#\2-Practica_metodos\Practica_metodos\bin\Debug\Practica_metodos.pdb
+C:\Users\User\Desktop\CURSO C#\2-Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\2-Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\2-Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\2-Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.exe
+C:\Users\User\Desktop\CURSO C#\2-Practica_metodos\Practica_metodos\obj\Debug\Practica_metodos.pdb
