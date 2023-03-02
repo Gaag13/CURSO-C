@@ -11,7 +11,7 @@ namespace Herencia
     {
         static void Main(string[] args)
         {   //comentario
-            
+            // realizando comentario desde locar 
             Caballo Babieca = new Caballo("Hercules");
             //Humano Juan = new Humano();
             //Gorila Copito = new Gorila();
