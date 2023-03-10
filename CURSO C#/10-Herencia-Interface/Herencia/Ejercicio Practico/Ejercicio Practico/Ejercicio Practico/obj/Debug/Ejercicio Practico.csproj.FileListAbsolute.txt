@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia\Herencia\Ejercicio Practico\Ejercicio Practico\Ejercicio Practico\bin\Debug\Ejercicio Practico.exe.config
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia\Herencia\Ejercicio Practico\Ejercicio Practico\Ejercicio Practico\bin\Debug\Ejercicio Practico.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia\Herencia\Ejercicio Practico\Ejercicio Practico\Ejercicio Practico\bin\Debug\Ejercicio Practico.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia\Herencia\Ejercicio Practico\Ejercicio Practico\Ejercicio Practico\obj\Debug\Ejercicio Practico.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia\Herencia\Ejercicio Practico\Ejercicio Practico\Ejercicio Practico\obj\Debug\Ejercicio Practico.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia\Herencia\Ejercicio Practico\Ejercicio Practico\Ejercicio Practico\obj\Debug\Ejercicio Practico.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia\Herencia\Ejercicio Practico\Ejercicio Practico\Ejercicio Practico\obj\Debug\Ejercicio Practico.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia\Herencia\Ejercicio Practico\Ejercicio Practico\Ejercicio Practico\obj\Debug\Ejercicio Practico.pdb

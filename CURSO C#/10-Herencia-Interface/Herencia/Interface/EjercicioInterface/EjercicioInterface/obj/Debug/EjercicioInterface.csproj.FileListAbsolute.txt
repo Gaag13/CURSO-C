@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia-Interface\Herencia\Interface\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia-Interface\Herencia\Interface\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia-Interface\Herencia\Interface\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia-Interface\Herencia\Interface\EjercicioInterface\EjercicioInterface\bin\Debug\EjercicioInterface.exe.config
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia-Interface\Herencia\Interface\EjercicioInterface\EjercicioInterface\bin\Debug\EjercicioInterface.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia-Interface\Herencia\Interface\EjercicioInterface\EjercicioInterface\bin\Debug\EjercicioInterface.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia-Interface\Herencia\Interface\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\10-Herencia-Interface\Herencia\Interface\EjercicioInterface\EjercicioInterface\obj\Debug\EjercicioInterface.pdb
