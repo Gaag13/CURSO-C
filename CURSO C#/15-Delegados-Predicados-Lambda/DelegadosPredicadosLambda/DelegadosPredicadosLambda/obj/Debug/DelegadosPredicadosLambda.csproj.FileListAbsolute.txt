@@ -1,3 +1,8 @@
 C:\Users\User\Desktop\CURSO C#\CURSO C#\15-Delegados-Predicados-Lambda\DelegadosPredicadosLambda\DelegadosPredicadosLambda\obj\Debug\DelegadosPredicadosLambda.csproj.AssemblyReference.cache
 C:\Users\User\Desktop\CURSO C#\CURSO C#\15-Delegados-Predicados-Lambda\DelegadosPredicadosLambda\DelegadosPredicadosLambda\obj\Debug\DelegadosPredicadosLambda.csproj.SuggestedBindingRedirects.cache
 C:\Users\User\Desktop\CURSO C#\CURSO C#\15-Delegados-Predicados-Lambda\DelegadosPredicadosLambda\DelegadosPredicadosLambda\obj\Debug\DelegadosPredicadosLambda.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\15-Delegados-Predicados-Lambda\DelegadosPredicadosLambda\DelegadosPredicadosLambda\bin\Debug\DelegadosPredicadosLambda.exe.config
+C:\Users\User\Desktop\CURSO C#\CURSO C#\15-Delegados-Predicados-Lambda\DelegadosPredicadosLambda\DelegadosPredicadosLambda\bin\Debug\DelegadosPredicadosLambda.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\15-Delegados-Predicados-Lambda\DelegadosPredicadosLambda\DelegadosPredicadosLambda\bin\Debug\DelegadosPredicadosLambda.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\15-Delegados-Predicados-Lambda\DelegadosPredicadosLambda\DelegadosPredicadosLambda\obj\Debug\DelegadosPredicadosLambda.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\15-Delegados-Predicados-Lambda\DelegadosPredicadosLambda\DelegadosPredicadosLambda\obj\Debug\DelegadosPredicadosLambda.pdb
