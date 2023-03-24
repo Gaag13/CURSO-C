@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\CURSO C#\CURSO C#\16-ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe.config
+C:\Users\User\Desktop\CURSO C#\CURSO C#\16-ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\16-ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\16-ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\16-ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\16-ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\16-ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\16-ExpresionesRegulares\ExpresionesRegulares\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb

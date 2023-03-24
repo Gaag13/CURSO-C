@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\bin\Debug\ProbandoInterface.exe.config
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\bin\Debug\ProbandoInterface.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\bin\Debug\ProbandoInterface.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\App.g.cs
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface_MarkupCompile.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface_MarkupCompile.lref
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface.g.resources
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface.Properties.Resources.resources
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\INotifyPropertyChanged\INotifyPropertyChanged\ProbandoInterface\ProbandoInterface\obj\Debug\ProbandoInterface.pdb
