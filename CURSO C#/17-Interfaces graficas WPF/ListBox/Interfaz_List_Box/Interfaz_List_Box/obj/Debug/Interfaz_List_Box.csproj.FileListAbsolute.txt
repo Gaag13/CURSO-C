@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\bin\Debug\Interfaz_List_Box.exe.config
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\bin\Debug\Interfaz_List_Box.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\bin\Debug\Interfaz_List_Box.pdb
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\App.g.cs
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box_MarkupCompile.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box_MarkupCompile.lref
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box.g.resources
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box.Properties.Resources.resources
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box.exe
+C:\Users\User\Desktop\CURSO C#\CURSO C#\17-Interfaces graficas WPF\ListBox\Interfaz_List_Box\Interfaz_List_Box\obj\Debug\Interfaz_List_Box.pdb
